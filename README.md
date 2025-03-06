@@ -38,6 +38,3 @@ The dataset used for the project consists of graphs represented in **CSV format*
 
 ## Contributors
 - **Team 9**
-
-## License
-This project is licensed under the **MIT License**.
