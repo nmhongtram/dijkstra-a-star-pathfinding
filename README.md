@@ -12,11 +12,6 @@ The dataset used for the project consists of graphs represented in **CSV format*
 - Each row represents an edge with **source node, destination node, and weight**.
 - Additional random graph generation is implemented for testing scalability.
 
-## Project Structure
-- `data/`
-- `notebooks/` 
-- `README.md`
-
 ## Implementation Details
 ### **Dijkstra’s Algorithm**
 - Uses a **priority queue (heap)** to explore nodes with the shortest known distance.
