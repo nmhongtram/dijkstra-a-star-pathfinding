@@ -23,7 +23,7 @@ The dataset used for the project consists of graphs represented in **CSV format*
 - Can find the shortest path from a single source node to all other nodes.
 - **Time complexity:** O((V + E) log V) using a priority queue.
 
-### **A* Algorithm**
+### **A\* Algorithm**
 - Utilizes an **evaluation function f(n) = g(n) + h(n)** where:
   - **g(n):** Cost from the start node to node n.
   - **h(n):** Heuristic estimated cost from node n to the goal.
